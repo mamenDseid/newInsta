@@ -33,14 +33,13 @@ console.warn = message => {
 };
 
 const firebaseConfig = {
-  apiKey: "****",
-  authDomain: "****",
-  databaseURL: "****",
-  projectId: "****",
-  storageBucket: "****",
-  messagingSenderId: "****",
-  appId: "****",
-  measurementId: "****"
+  apiKey: "AIzaSyD87aSHnr26D4AXoVTeB8dzdpuGVREpZUQ",
+    authDomain: "flowercrib-340614.firebaseapp.com",
+    projectId: "flowercrib-340614",
+    storageBucket: "flowercrib-340614.appspot.com",
+    messagingSenderId: "326204935545",
+    appId: "1:326204935545:web:c0fc54e18fe0d01b8d73a8",
+    measurementId: "G-W8JQYKFK49"
 };
 
 const logo = require('./assets/logo.png')
