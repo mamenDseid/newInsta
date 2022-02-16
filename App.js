@@ -33,13 +33,16 @@ console.warn = message => {
 };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD87aSHnr26D4AXoVTeB8dzdpuGVREpZUQ",
-    authDomain: "flowercrib-340614.firebaseapp.com",
-    projectId: "flowercrib-340614",
-    storageBucket: "flowercrib-340614.appspot.com",
-    messagingSenderId: "326204935545",
-    appId: "1:326204935545:web:c0fc54e18fe0d01b8d73a8",
-    measurementId: "G-W8JQYKFK49"
+  
+  apiKey: "AIzaSyA1t2roqz1jZrqGuRz0v_NuakppQiL0iDo",
+  authDomain: "instagram-38fb0.firebaseapp.com",
+  projectId: "instagram-38fb0",
+  storageBucket: "instagram-38fb0.appspot.com",
+  messagingSenderId: "1016811933098",
+  appId: "1:1016811933098:web:d2cc64898057a497acefd3",
+  measurementId: "G-9LW4ET9Y9X"
+  
+  
 };
 
 const logo = require('./assets/logo.png')
