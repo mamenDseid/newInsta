@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1016811933098",
+    "project_id": "instagram-38fb0",
+    "storage_bucket": "instagram-38fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016811933098:android:dd64691531acb34facefd3",
+        "android_client_info": {
+          "package_name": "com.instagram.simcoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016811933098-usrrkhh9l29pv86i54obdc3u6aerlk6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaRX8z-mqQaRmNY4rAO6s-OctzrnX81c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016811933098-usrrkhh9l29pv86i54obdc3u6aerlk6i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016811933098-gb84qp5ndefka9sv6deccvgumhgp48fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instagram.simcoder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
